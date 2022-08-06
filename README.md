@@ -9,7 +9,7 @@ line = input()
 total_words = line.count(' ') + 1
 print(total_words)
 ```
-Problem #1: [Core Drill](https://dmoj.ca/problem/dmopc14c5p1)
+Problem #2: [Core Drill](https://dmoj.ca/problem/dmopc14c5p1)
 
 Solution:
 ```python
