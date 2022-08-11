@@ -22,3 +22,16 @@ volume = (PI * radius ** 2 * height) / 3
 
 print(volume)
 ```
+Problem #3: [A Spooky Season]
+
+Solution:
+```python
+prompt = int(input())
+
+n = 'o' * prompt
+
+word = 'sp' + n + 'ky'
+
+print(word)
+```
+
