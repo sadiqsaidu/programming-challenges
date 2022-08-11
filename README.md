@@ -22,7 +22,7 @@ volume = (PI * radius ** 2 * height) / 3
 
 print(volume)
 ```
-Problem #3: [A Spooky Season]
+Problem #3: [A Spooky Season](https://dmoj.ca/problem/wc16c1j1)
 
 Solution:
 ```python
@@ -34,4 +34,15 @@ word = 'sp' + n + 'ky'
 
 print(word)
 ```
+Problem #4 [A New Hope](https://dmoj.ca/problem/wc15c2j1/)
 
+Solution:
+```python
+prompt = int(input())
+
+n = 'far, ' * (prompt - 1)
+
+Phrase = f'A long time ago in a galaxy {n}far away...'
+
+print(Phrase)
+```
