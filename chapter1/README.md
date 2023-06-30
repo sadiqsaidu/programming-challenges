@@ -1,5 +1,5 @@
 # programming-challenges
-## Chapter 1 - Getting Started 
+### Chapter 1 - Getting Started 
 
 [A Spooky Season](https://dmoj.ca/problem/wc16c1j1)
 
@@ -46,4 +46,10 @@ c = int(input())
 f = (9*c + 160) / 5
 
 print(f)
+```
+[An Honest Day's Work](https://dmoj.ca/problem/wc18c3j1/)
+
+Solution:
+```python
+
 ```
