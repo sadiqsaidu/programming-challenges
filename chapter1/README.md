@@ -1,4 +1,3 @@
-# programming-challenges
 ### Chapter 1 - Getting Started 
 
 [A Spooky Season](https://dmoj.ca/problem/wc16c1j1)
